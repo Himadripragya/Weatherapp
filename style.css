@@ -25,20 +25,20 @@ text-align: center;
 {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 1.5rem;
-    color: #ffffff;
+    color: #faf3f3;
 }
 #temp #temp-value
 {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 2rem;
-    color: #ffffff;
+    color: #fdfbfb;
     
 }
 #climate
 {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 2.5rem;
-    color: #ffffff;
+    color: #fdfbfb;
     text-align: center;
 }
 #location
@@ -92,7 +92,7 @@ main{
 #search-button:hover{
 
 color: #ffffff;
-background: #ff6768;
+background: #2f1157;
 border-color: #ff6768;
 transition: all 0.4s ease 0s;
 
